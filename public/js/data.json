@@ -1,0 +1,12 @@
+{
+    "file_1": {
+        "status": "0",
+        "author": "John",
+        "size": "3245"
+    },
+    "file_2": {
+        "status": "1",
+        "author": "Jane",
+        "size": "19462"
+    }
+}
